@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BUApp"
+    }
+  },
+  "defaultProject": "BUApp",
+  "cli": {
+    "analytics": "afa3ec1f-cd93-436d-897f-2f820bae35d9"
+  }
 }
